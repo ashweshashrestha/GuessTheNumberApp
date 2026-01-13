@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Guess The Number</string>
+    <string name="title_text">Guess the Number (1 - 100)</string>
+    <string name="hint_enter_number">Enter your guess</string>
+    <string name="btn_guess">Guess</string>
+    <string name="btn_reset">Reset Game</string>
+    <string name="result_too_low">Too Low ⬇️</string>
+    <string name="result_too_high">Too High ⬆️</string>
+    <string name="result_correct">Correct! 🎉 You won!</string>
+    <string name="toast_enter_number">Please enter a number</string>
+    <string name="toast_new_game">New game started!</string>
+</resources>
