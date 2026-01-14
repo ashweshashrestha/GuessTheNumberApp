@@ -6,24 +6,29 @@
 
 ## Features
 
-* Generates a random number between 1 and 100.
-* Allows users to input their guess using an **EditText**.
-* Provides instant feedback:
+- Generates a random number between 1 and 100.
+- Allows users to input their guess using an **EditText**.
+- Provides instant feedback:
 
-  * "Too low" if the guess is lower than the number.
-  * "Too high" if the guess is higher than the number.
-  * "Correct" if the guess matches the number.
-* Reset button to start a new game.
-* User-friendly interface with:
+  - "Too low" if the guess is lower than the number.
+  - "Too high" if the guess is higher than the number.
+  - "Correct" if the guess matches the number.
 
-  * **Toast messages** for quick feedback.
-  * **TextView** to display the result.
+- Reset button to start a new game.
+- User-friendly interface with:
+
+  - **Toast messages** for quick feedback.
+  - **TextView** to display the result.
 
 ---
 
 ## Screenshots
 
-*(Optional: Add screenshots of your app here to make the README more visual.)*
+<img src="/public/p1.png" alt="drawing" width="300"/>
+<img src="/public/p2.png" alt="drawing" width="300"/>
+<img src="/public/p3.png" alt="drawing" width="300"/>
+<img src="/public/p4.png" alt="drawing" width="300"/>
+<img src="/public/p5.png" alt="drawing" width="300"/>
 
 ---
 
@@ -34,6 +39,7 @@
    ```bash
    git clone https://github.com/ashweshashrestha/GuessTheNumberApp.git
    ```
+
 2. Open the project in **Android Studio**.
 3. Let Android Studio download all required dependencies.
 4. Connect an Android device or start an emulator.
@@ -43,9 +49,9 @@
 
 ## Technologies Used
 
-* **Java** (Android SDK)
-* **Android Studio**
-* **XML** (for layout)
+- **Java** (Android SDK)
+- **Android Studio**
+- **XML** (for layout)
 
 ---
 
@@ -66,7 +72,7 @@ GuessTheNumberApp/
 
 ## Future Improvements
 
-* Add a counter for the number of guesses.
-* Highlight previous guesses.
-* Add sound or animation for correct guess.
-* Support multiple difficulty levels.
+- Add a counter for the number of guesses.
+- Highlight previous guesses.
+- Add sound or animation for correct guess.
+- Support multiple difficulty levels.
